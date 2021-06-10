@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kyle91980
+- 👋 Hi, I’m Kyle Gerken
 - 👀 I’m interested in ... C++ programming at the moment. Im starting a 100 Days of Programming challenge soon!
 - 🌱 I’m currently learning ... C++, looking forward to Java once I get my C++ into an intermediate skill level.
 - 💞️ I’m looking to collaborate on ... Hopefully Windows Application development. I havea long way to go, but I'm sure my understanding will better once I get into Java and Adnroid development.
