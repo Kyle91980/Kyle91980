@@ -1,8 +1,15 @@
 - 👋 Hi, I’m Kyle Gerken
-- 👀 I’m interested in ... C++ programming at the moment. Im starting a 100 Days of Programming challenge soon!
-- 🌱 I’m currently learning ... C++, looking forward to Java once I get my C++ into an intermediate skill level.
-- 💞️ I’m looking to collaborate on ... Hopefully Windows Application development. I havea long way to go, but I'm sure my understanding will better once I get into Java and Adnroid development.
-- 📫 How to reach me ... Currently this is my best way to contact me. I'm looking to move towards Discord communities and began moving most of my finished project to Replit for the cloud storage.
+- 👀 I’m interested in ... Learning software development, Currently working with C/C++/C#, Java, Unity, JavaScript, JSON.
+- 🌱 I’m currently learning ... Keeping my options open. Always looking for new projects to try out.
+- 💞️ I’m looking to collaborate on ... Hopefully Windows Application development. I havea long way to go, but I'm sure my understanding will better once I get into Java and Android development.
+- 📫 How to reach me ... Currently this is my best way to contact me. 
+
+
+
+-- Last Updated 6/9 --
+- Current working projects
+1. AsteroidDilemma - Unity Engine, C#
+2. Dealerships - Eclipse IDE, Java
 
 <!---
 Kyle91980/Kyle91980 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
