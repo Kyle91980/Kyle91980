@@ -8,8 +8,7 @@
 
 -- Last Updated 6/9 --
 - Current working projects
-1. AsteroidDilemma - Unity Engine, C#
-2. Dealerships - Eclipse IDE, Java
+1. Capstone Project - Private
 
 <!---
 Kyle91980/Kyle91980 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,3 +16,15 @@ You can click the Preview link to take a look at your changes.
 --->
 
 -- Timeline of programming- 
+Languages learned in order:
+1. Python 
+2. C
+3. C++
+4. SQL
+5. C#
+6. JAVA
+7. MarkDown - Format Language
+
+-- IDE's of Choice
+1. Visual Studio Code
+2. Eclipse
